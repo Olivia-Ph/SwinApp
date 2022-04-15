@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T11:51:51.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="ow6PiZJTalMH69GvjPAo" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T12:46:41.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="3y0cAmespVQCsfNx3vdy" version="17.4.4" type="github">
   <diagram id="SsodIubV5SFTSGUtVNlf" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
         <mxCell id="dlntXyXqMN0Tj0HWEZaU-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/presentation-check-128.png;fontSize=15;strokeWidth=0.5;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dlntXyXqMN0Tj0HWEZaU-14" value="User Interface" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="dlntXyXqMN0Tj0HWEZaU-14" value="UI Components" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="220" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dlntXyXqMN0Tj0HWEZaU-15" value="Presentation Logic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="dlntXyXqMN0Tj0HWEZaU-15" value="UI Process Components" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="268" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dlntXyXqMN0Tj0HWEZaU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;strokeColor=default;" parent="1" source="dlntXyXqMN0Tj0HWEZaU-14" target="dlntXyXqMN0Tj0HWEZaU-14" edge="1">
@@ -82,11 +82,8 @@
         <mxCell id="QgwUPah1BYvu5lVziW78-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=0.5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="300" y="331" width="460" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QgwUPah1BYvu5lVziW78-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Hierarchy_networking_programming_process_sitemap_workflow-128.png" vertex="1" parent="1">
-          <mxGeometry x="320" y="361" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="QgwUPah1BYvu5lVziW78-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Business&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="401" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgwUPah1BYvu5lVziW78-6" value="Application Facade" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="350" height="30" as="geometry" />
@@ -99,6 +96,9 @@
         </mxCell>
         <mxCell id="QgwUPah1BYvu5lVziW78-9" value="Entities" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0.5;fillColor=default;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgwUPah1BYvu5lVziW78-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="360" width="27.2" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
